@@ -26,7 +26,7 @@
 
 **Hvað á agentinn nákvæmlega að gera? Skiptu stórum verkum niður.**
 
-1. [forrita kóðan sem gera hlutina sem er biðið um að búa til]
+1. [forrita kóðan sem gera hlutina sem er biðið um að búa til og fara yfir hann til að vera viss um að allt passar saman]
 2. [setja gögn í síðuna]
 3. []
 
@@ -42,7 +42,7 @@
 
 **Hvað á agentinn EKKI að breyta eða gera?**
 
-- [Það sem má ekki snerta]
+- [Það sem má ekki snerta files sem eiga ekki við verkafnið en það má breyta skjölum sem Agent bjó til]
 
 ## 07. Kröfur og takmarkanir (Constraints)
 
@@ -54,15 +54,15 @@
 
 **Sýnileg og mælanleg skilyrði. Hvert skilyrði þarf að vera prófanlegt.**
 
-- [ ] AC-01: [Hvernig sjáum við að fyrsta skilyrðið er uppfyllt?]
-- [ ] AC-02: [Hvernig sjáum við að annað skilyrðið er uppfyllt?]
-- [ ] AC-03: [Hvernig sjáum við að þriðja skilyrðið er uppfyllt?]
+- [ ] AC-01: [síðan hefur leikina skráða með mods og patches]
+- [ ] AC-02: [notanlegt searchbar sem er hægt að finna niðurtöður með]
+- [ ] AC-03: [check boxs svör ákveða hvernig mods eru raðað  ]
 
 ## 09. Prófanir og staðfesting (Verification)
 
 **Hvernig á að prófa að niðurstaðan uppfylli skilyrðin?**
 
-- [ ] [Prófun og vænt niðurstaða]
+- [ leita með searchbar] [Prófun og vænt niðurstaða]
 - [ ] [Prófun og vænt niðurstaða]
 
 ## 10. Heimildir og viðmið (References)
