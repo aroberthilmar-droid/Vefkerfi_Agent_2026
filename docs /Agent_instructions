@@ -42,7 +42,7 @@
 
 **Hvað á agentinn EKKI að breyta eða gera?**
 
-- [Það sem má ekki snerta files sem eiga ekki við verkafnið en það má breyta skjölum sem Agent bjó til]
+- [Það sem má ekki snerta files sem eiga ekki við verkafnið en það má breyta skjölum sem Agent bjó til. Nema ef það er neyð og agent þarf eitthvað ]
 
 ## 07. Kröfur og takmarkanir (Constraints)
 
@@ -69,7 +69,7 @@
 
 **Hvaða skjöl, dæmi eða núverandi kóða á agentinn að fylgja?**
 
-- [Skrá, hlekkur eða viðmið]
+- [gera það sem description_and_info file segir]
 
 ---
 
@@ -77,10 +77,10 @@
 
 **Á að greina fyrst, leggja fram áætlun, innleiða svo og prófa?**
 
-1. [T.d. skoða núverandi stöðu]
-2. [T.d. leggja fram stutta áætlun]
-3. [T.d. vinna í samþykktum áföngum]
-4. [T.d. prófa og yfirfara]
+1. [skoða núverandi stöðu]
+2. [leggja fram stutta áætlun]
+3. [prófa og yfirfara]
+4. [breyta kóða sem ]
 
 ## 12. Heimildir og ákvörðunarmörk (Permissions)
 
