@@ -1,0 +1,15 @@
+Síða sem hjálpar notendum að láta gamla leiki virka á nýrri tölvum.
+  Markhópurinn er fólk sem er að reyna að spila gamla leiki.
+  Mun virka eins og wikapedia fyrir gamla leiki og gefur lista af mods og hvað þau laga til dæmis windows compatability eða DirectX vandamál.
+  Notendur eiga að geta valið hvað er að leiknum sem þau eru að reyna að spila, svo mun það sýna mest líklegasta vandamálið.
+  Síðan mun gefa links að mods til að laga leikin.
+
+  Functional Requirements:
+FR01. user gettur valið hvað er að leiknum með að checka boxes sem munu ákveða hvaða mods henta notandanum mest.
+FR02. mods eru röðuð frá mest líklegust til að leysa málið útfrá svörum notendans.
+
+Agent hefur aðgang bara að gögnum og files sem eiga við verkafnið ef eitthvað er breytt sem hefur áhryf á annað í leiðum sem lætur það ekki virka lengur ekki.
+Agent þarf að kíkja hvort að síðan virkar meða að keyra hana upp og prófa öll helstu atriði síðunar eða eins og notandi sem er að prófa síðuna.
+Síðan verður öll í ensku.
+
+
